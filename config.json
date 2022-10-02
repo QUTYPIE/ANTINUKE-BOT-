@@ -1,0 +1,69 @@
+{
+  "token": "OTUzODgzNzEwNDc2OTE4ODQ1.GLyTOJ.pordJ3oX-Wnj8LGw80n8t_rWVct0n-i9RBxwk4",
+  "mongo": "mongodb+srv://SpaceMusic:shivamop@cluster0.kgvij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": ">",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lavalink.oops.wtf",
+        "port": 443,
+        "password": "www.freelavalink.ga",
+        "retryDelay": 4000,
+        "secure": true
+      },
+       {
+        "host": "node1.kartadharta.xyz",
+        "port": 443,
+        "password": "kdlavalink",
+        "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "lava.islantay.tk",
+        "port": 443,
+        "password": "AmeliaWatsonisTheBest**!", "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "jp-lava.islantay.tk",
+        "port": 443,
+        "password": "AmeliaWatsonisTheBest**!",
+        "retryDelay": 4000,
+        "secure": true 
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "<a:smart:1026089694062186577>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/Rqdx38Gdfn",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=953883710476918845&permissions=8&scope=bot",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=953883710476918845&permissions=8&scope=bot",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=953883710476918845&permissions=8&scope=bot",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=953883710476918845&permissions=8&scope=bot",
+    "opmusicvote": "https://discord.gg/Rqdx38Gdfn"
+  },
+  "ownerIDS": [
+    "947891831516065834",
+    "761635564835045387",
+    "761635564835045387",
+    "947891831516065834",
+      "947891831516065834"
+  ]
+}
